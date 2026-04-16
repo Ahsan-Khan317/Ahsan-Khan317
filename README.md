@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/md-ahsan-khan-2659252a8">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Ahsan-Khan317">
+  <a href="https://portfolio0891.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=react" />
   </a>
 </p>
